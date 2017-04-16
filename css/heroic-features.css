@@ -19,3 +19,8 @@ body {
 footer {
     margin: 50px 0;
 }
+
+.imagem-pequena{
+	width: 35px;
+	height: 35px;
+}
